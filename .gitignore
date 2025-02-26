@@ -1,0 +1,7 @@
+wandb
+*.vscode
+*.log
+*.err
+*.out
+**/__pycache__
+**/log
